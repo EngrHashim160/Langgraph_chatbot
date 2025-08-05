@@ -1,4 +1,4 @@
-# Chatbot using LangGraph-Persistance
+# Chatbot using LangGraph-Streaming & Persistance
 
 A modular chatbot framework built using LangGraph, designed to demonstrate the interaction between a frontend chat interface and a LangChain-based backend. This project serves as a foundational prototype for building AI assistant applications that leverage conversational workflows.
 
